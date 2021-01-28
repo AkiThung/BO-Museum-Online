@@ -4,7 +4,7 @@ const quiz1 =
     "quizMetaData":
     {
         "title": "LStreatsDesign Quiz",
-        "imageURI": "https://streatsdesign.com/StreatsDesign_Logo.jpg"
+        "imageURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeb_yGeb1hHv2kgyLK-m0ZU4j1g80MwkJmFw&usqp=CAU"
 
     },
     "quizContent":		
